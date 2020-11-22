@@ -20,4 +20,5 @@ In my free time I like to play (and watch), to watch movies (🎞️) and series
 Would you like to find me?
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=)](https://www.youtube.com/channel/UC8rprL599wDrl1wOf_TZ_dQ?view_as=subscriber)
+![GitHub followers](https://img.shields.io/github/followers/Bmrnice?color=red&label=FaceBook&logo=facebook&style=social)
 
