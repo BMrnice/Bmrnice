@@ -20,7 +20,7 @@ In my free time I like to play (and watch), to watch movies (🎞️) and series
 
 Would you like to find me?
 
-[![Blog Badge]()
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://www.youtube.com/channel/UC8rprL599wDrl1wOf_TZ_dQ?view_as=subscriber)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=)](https://www.youtube.com/channel/UC8rprL599wDrl1wOf_TZ_dQ?view_as=subscriber)
 [![Instagram Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://www.instagram.com/magnilson_moreira/)
-[![Facebook Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.facebook.com/magnilsonmoreira/)
+[![Facebook Badge](https://img.shields.io/badge/<Follow me>-<FaceBook>-<bLue>)](https://www.facebook.com/magnilsonmoreira/)
+https://img.shields.io/eclipse-marketplace/dm/mahouka%20sensei?style=for-the-badge
