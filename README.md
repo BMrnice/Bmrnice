@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+My name is Magnilson Moreira from Brazil (🇧🇷).
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 👯 I’m looking to collaborate on another projects
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 44 07515539067
 - 😄 Pronouns: Bmrnice
 - ⚡ Fun fact: Animes, Games, series about sfi and everything geek/ culture-pop
-My name is Magnilson Moreira from Brazil (🇧🇷). 
+ 
 
 In my free time I like to play (and watch), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
